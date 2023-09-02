@@ -1,5 +1,5 @@
 # Naive_Bees_Predict_Species_from_Images
-Project: Naïve Bees: Predict Species from Images
+Project: **Naïve Bees: Predict Species from Images**
 
 ## Project Description
 
@@ -7,5 +7,4 @@ Can a machine distinguish between a honey bee and a bumble bee? Being able to id
 
 This project is the second part of a series of projects that walk through working with image data, building classifiers using traditional techniques, and leveraging the power of deep learning for computer vision.
 
-Before taking this project, it will help to have completed **Naïve Bees: Image Loading and Processing**.
 
